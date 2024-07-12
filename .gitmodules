@@ -1,0 +1,9 @@
+[submodule "submodules/bgfx"]
+	path = submodules/bgfx
+	url = https://github.com/bkaradzic/bgfx
+[submodule "submodules/SDL"]
+	path = submodules/SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "submodules/imgui"]
+	path = submodules/imgui
+	url = https://github.com/ocornut/imgui
